@@ -25,11 +25,11 @@ author:
   email: "pj.peng@ou.edu"
 
   # Academic IDs (add later if needed)
-  googlescholar: "" 
-  orcid: ""
+  googlescholar: "https://scholar.google.com/citations?user=1HdR138AAAAJ&hl=en&oi=ao" 
+  orcid: "https://orcid.org/0009-0006-2034-7265"
 
   # Coding & repos
-  github: "PJPENG3"
+  github:
 
   # Social
   linkedin: "jinganpeng303"
