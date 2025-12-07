@@ -17,7 +17,7 @@ repository: "PJPENG3/pjpeng.github.io"
 # Sidebar Author Information
 # ==========================================
 author:
-  avatar: "profile.png"   # Put your profile image in /images/profile.png
+  avatar: "PJ-bio-photo.jpg"   # Put your profile image in /images/
   name: "Jingan Peng"
   bio: "Ph.D. student in Industrial & Systems Engineering at the University of Oklahoma"
   location: "Norman, Oklahoma"
